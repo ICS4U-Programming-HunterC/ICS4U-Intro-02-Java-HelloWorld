@@ -1,2 +1,2 @@
 # ICS4U-Intro-02-Java-HelloWorld
-[![Super Linter](https://github.com/<HunterConnolly>/<ICS4U-Intro-02-Java-HelloWorld>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions/)
+[![Super Linter](https://github.com/ICS4U-Programming-HunterC/ICS4U-Intro-02-Java-HelloWorld/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS4U-Programming-HunterC/ICS4U-Intro-02-Java-HelloWorld/actions/)
